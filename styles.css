@@ -13,6 +13,7 @@
     background-color: pink;
 }
 
+/* container */
 .headersearch form {
     display: flex;
     margin: 20px;
@@ -23,7 +24,8 @@ input {
     background-color: lightgreen;
 }
 
-.bodymain {
+/* container */
+.bodymain  {
     display: flex;
     justify-content: space-around;
     gap: 10px;
