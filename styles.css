@@ -3,6 +3,12 @@
     border: 2px solid black;
 }
 
-.headermain {
+.headernavbar {
     display: flex;
+    justify-content: space-around;
+}
+
+.navbar {
+    flex: 1;
+    background-color: pink;
 }
