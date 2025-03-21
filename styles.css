@@ -12,3 +12,12 @@
     flex: 1;
     background-color: pink;
 }
+
+.headersearch form {
+    display: flex;
+}
+
+input {
+    flex: 1;
+    background-color: lightgreen;
+}
