@@ -27,9 +27,8 @@ input {
 /* container */
 .bodymain  {
     display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
     gap: 20px;
+    flex-wrap: wrap;
     margin: 60px;
 
 }
