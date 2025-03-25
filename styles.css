@@ -41,3 +41,15 @@ input {
     border: 1px solid red;
     padding: 50px;
 }
+
+.again {
+    display: flex;
+    justify-content: center;
+}
+
+
+.alone {
+    flex: auto;
+    background-color: lightyellow;
+
+}
