@@ -5,6 +5,7 @@
 .headernavbar {
     display: flex;
     justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .navbar {
