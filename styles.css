@@ -6,8 +6,18 @@
 
 .top-header {
     display: flex;
+    justify-content: flex-end;
+    padding: 20px;
 }
 
-.top-items{
-    flex: auto;
+.bttn{
+    flex: 1 1 auto;
+    background-color: red;
+    margin: 5px;
+    height: 20px;
+    width: 30px;
+}
+
+#translate {
+    background-color: black;
 }
