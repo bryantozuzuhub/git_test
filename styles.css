@@ -7,11 +7,13 @@
 .header {
     display: flex;
     justify-content: space-between;
+    box-sizing: border-box;
+    /* font-size: smaller; */
 }
 
 .top-header {
     display: flex;
-    padding: 20px;
+    /* padding: 20px; */
 }
 
 #topbttn {
