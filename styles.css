@@ -4,20 +4,31 @@
     color: white;
 }
 
+.header {
+    display: flex;
+}
+
 .top-header {
     display: flex;
-    justify-content: flex-end;
     padding: 20px;
 }
 
-.bttn{
-    flex: 1 1 auto;
-    background-color: red;
-    margin: 5px;
-    height: 20px;
-    width: 30px;
-}
+
 
 #translate {
     background-color: black;
+}
+
+#topbttn {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.bttn {
+    width: 50px;
+    height: 50px;
+    flex: 1 1 auto;
+    background-color: red;
+    margin: 5px;
 }
