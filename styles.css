@@ -3,5 +3,18 @@
     color: white;
 }
 
+#section-one {
+    display: flex;
+    justify-content: space-between;
+}
 
+#title,
+#searchbar,
+#navbar {
+    flex: auto;
+}
 
+#title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
