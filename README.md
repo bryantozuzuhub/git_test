@@ -6,17 +6,14 @@ declaring variables and constants
 basic operators
 strings an numbers to include concatenation and literals
 
-pseudocode
+what about pseudocode? are there best practices?
 1. Circle Area
 
 - Declare a constant PI and a variable radius.
 - Calculate the area of a circle (PI * radius²).
 - Log the result as: "The area is [result]."
 
-const pieValue is 3.14
-let radiusValue is 5.06
-let outputResult is pieValue * (radiusValue * radiusValue)
-console.log (the area is outputResult)
+
 
 2. Age Difference
 
@@ -51,7 +48,7 @@ let rectTotal is (2 * (rectLength + rectWidth))
 "The perimeter is [perimeter] units."
 
 
-7. String Greeting
+5. String Greeting
 
 - Declare variables for firstName and yearOfBirth.
 - Calculate the person’s approximate age.
